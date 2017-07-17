@@ -3,11 +3,12 @@ layout: default
 ---
 
 # My projects:
+## Unity3D
 
-*   [Unity intro](unity-intro) - project, that I made for YouTube Unity 3D tutorials it contains my first intro animation.
-*   [Unity SteamBall](unity-steamball) - **One-day project**. Simple Pong type game, targeted on mobile devices.
-*   [Unity Goatbeard's Endless Runner](unity-goatbeardsendlessrunner) - **One-day project**. Game for mobile devices, that is endless runner type. You must avoid obstacles by jumping over them.
-*   [Unity TicTacToe](unity-tictactoe) - **One-day project**. Simple game that utilizes the multi-platform querries.
+*   [Intro animation](unity-intro) - project, that I made for YouTube Unity 3D tutorials it contains my first intro animation.
+*   [SteamBall](unity-steamball) - **One-day project**. Simple Pong type game, targeted on mobile devices.
+*   [Goatbeard's Endless Runner](unity-goatbeardsendlessrunner) - **One-day project**. Game for mobile devices, that is endless runner type. You must avoid obstacles by jumping over them.
+*   [TicTacToe](unity-tictactoe) - **One-day project**. Simple game that utilizes the multi-platform querries.
 
 # About mysefl:
 
