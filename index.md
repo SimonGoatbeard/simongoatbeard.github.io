@@ -9,9 +9,9 @@ layout: default
 *   [Unity Goatbeard's Endless Runner](unity-goatbeardsendlessrunner) - **One-day project**. Game for mobile devices, that is endless runner type. You must avoid obstacles by jumping over them.
 *   [Unity TicTacToe](unity-tictactoe) - **One-day project**. Simple game that utilizes the multi-platform querries.
 
-{% comment %}
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-{% endcomment %}
+
+# Text can be **bold**, _italic_, or ~~strikethrough~~.
+
 [Link to another page](another-page).
 
 There should be whitespace between paragraphs.
