@@ -3,14 +3,22 @@ layout: default
 ---
 
 # My projects:
-## > Unity3D
+## >> Unity3D
 
 *   [Intro animation](unity-intro) - project, that I made for YouTube Unity 3D tutorials it contains my first intro animation.
 *   [SteamBall](unity-steamball) - **One-day project**. Simple Pong type game, targeted on mobile devices.
 *   [Goatbeard's Endless Runner](unity-goatbeardsendlessrunner) - **One-day project**. Game for mobile devices, that is endless runner type. You must avoid obstacles by jumping over them.
 *   [TicTacToe](unity-tictactoe) - **One-day project**. Simple game that utilizes the multi-platform querries.
 
-## > JavaFX
+## >> C#
+*   W.I.P.
+
+## >> Java
+
+### > JavaFX
+*   W.I.P.
+
+### > Java Swing
 *   W.I.P.
 
 ## > WebSites
