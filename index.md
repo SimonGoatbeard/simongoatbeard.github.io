@@ -12,7 +12,7 @@ layout: default
 *   [Space Shooter](unity-spaceshooter) - **Game, that we made on IT Science Club session**. I was the teacher on those classes.
 
 ## >> C \#
-*   Text Coder/Decoder - W.I.P.
+*   Text Coder/Decoder - **W.I.P.**
 
 ## >> Java
 ###   JavaFX
