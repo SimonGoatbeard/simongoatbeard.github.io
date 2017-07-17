@@ -5,11 +5,13 @@ layout: default
 # [](#header-1)My Projects:
 
 *   [Unity intro](unity-intro) - project, that I made for YouTube Unity 3D tutorials it contains my first intro animation.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+*   [Unity SteamBall](unity-steamball) - **One-day project**. Simple Pong type game, targeted on mobile devices.
+*   [Unity Goatbeard's Endless Runner](unity-goatbeardsendlessrunner) - **One-day project**. Game for mobile devices, that is endless runner type. You must avoid obstacles by jumping over them.
+*   [Unity TicTacToe](unity-tictactoe) - **One-day project**. Simple game that utilizes the multi-platform querries.
 
+```
 Text can be **bold**, _italic_, or ~~strikethrough~~.
-
+```
 [Link to another page](another-page).
 
 There should be whitespace between paragraphs.
