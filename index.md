@@ -14,10 +14,10 @@ layout: default
 *   W.I.P.
 
 ## >> Java
-### >> JavaFX
+### JavaFX
 *   W.I.P.
 
-### >> Java Swing
+### Java Swing
 *   W.I.P.
 
 ## >> WebSites
