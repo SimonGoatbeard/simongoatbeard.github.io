@@ -16,14 +16,14 @@ layout: default
 
 ## >> Java
 ###   JavaFX
-*   InfoBingo **W.I.P.**
-*   MusicPlayer **W.I.P.**
+*   InfoBingo - **W.I.P.**
+*   MusicPlayer - **W.I.P.**
 
 ###   Java Swing
 *   W.I.P.
 
 ## >> WebSites
-*   Curiculum Vitae **W.I.P.**
+*   Curiculum Vitae - **W.I.P.**
 
 
 # Who am I
