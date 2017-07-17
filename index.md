@@ -3,7 +3,7 @@ layout: default
 ---
 
 # My projects:
-## >> Unity3D
+## >> Unity 3D Game Engine
 
 *   [Intro animation](unity-intro) - project, that I made for YouTube Unity 3D tutorials it contains my first intro animation.
 *   [SteamBall](unity-steamball) - **One-day project**. Simple Pong type game, targeted on mobile devices.
