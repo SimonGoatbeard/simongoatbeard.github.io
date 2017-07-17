@@ -11,9 +11,9 @@ layout: default
 *   [TicTacToe](unity-tictactoe) - **One-day project**. Simple game that utilizes the multi-platform querries.
 
 ## > JavaFX
-
+*   W.I.P.
 ## > WebSites
-
+*   W.I.P.
 
 # Who am I
 
