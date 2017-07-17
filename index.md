@@ -14,14 +14,13 @@ layout: default
 *   W.I.P.
 
 ## >> Java
-
 ### > JavaFX
 *   W.I.P.
 
 ### > Java Swing
 *   W.I.P.
 
-## > WebSites
+## >> WebSites
 *   W.I.P.
 
 
