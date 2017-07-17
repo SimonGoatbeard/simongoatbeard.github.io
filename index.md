@@ -11,7 +11,7 @@ layout: default
 
 <!---
 Text can be **bold**, _italic_, or ~~strikethrough~~.
--->
+
 [Link to another page](another-page).
 
 There should be whitespace between paragraphs.
@@ -129,3 +129,4 @@ Long, single-line code blocks should not wrap. They should horizontally scroll i
 ```
 The final element.
 ```
+-->
