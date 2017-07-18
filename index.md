@@ -24,7 +24,7 @@ layout: default
 *   MusicPlayer - **W.I.P.**
 
 ###   Java Swing
-*   W.I.P.
+*   **W.I.P.**
 
 ## >> WebSites
 *   Curiculum Vitae - **W.I.P.**
