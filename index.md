@@ -1,7 +1,8 @@
 ---
 layout: default
-[My projects](#my_projects)||[About me](#about_me)
 ---
+---
+[My projects](#my_projects)||[About me](#about_me)
 ---
 
 
