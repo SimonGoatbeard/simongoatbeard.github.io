@@ -1,8 +1,6 @@
 ---
 layout: default
 ---
-[My projects](#my_projects)
----
 ---
 
 
