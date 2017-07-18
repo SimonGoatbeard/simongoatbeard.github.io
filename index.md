@@ -30,7 +30,7 @@ layout: default
 *   Curiculum Vitae - **W.I.P.**
 
 
-# <a name="my_projects"></a>About me
+# <a name="about_me"></a>About me
 
 
 
