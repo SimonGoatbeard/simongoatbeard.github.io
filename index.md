@@ -34,8 +34,12 @@ layout: default
 
 ---
 # <a name="contact"></a>**Contact**
+E-mail: [simongoatbeard@gmail.com](simongoatbeard@gmail.com)
 
---
+---
+
+
+
 <!---
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
