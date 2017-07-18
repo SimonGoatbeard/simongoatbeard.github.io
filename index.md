@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+[My projects](#my_projects)||[About me](#about_me)
 ---
 
 
@@ -28,7 +29,7 @@ layout: default
 *   Curiculum Vitae - **W.I.P.**
 
 
-# Who am I
+# <a name="my_projects"></a>About me
 
 
 
