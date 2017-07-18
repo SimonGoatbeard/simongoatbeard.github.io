@@ -34,7 +34,7 @@ layout: default
 
 ---
 # <a name="contact"></a>**Contact**
-E-mail: [simongoatbeard@gmail.com](simongoatbeard@gmail.com)
+E-mail: [simongoatbeard@gmail.com](mailto:simongoatbeard@gmail.com)
 
 ---
 
