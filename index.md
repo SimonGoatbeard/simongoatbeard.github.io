@@ -2,7 +2,7 @@
 layout: default
 ---
 ---
-|[My projects](#my_projects)| |[About me](#about_me)|
+|[My projects](#my_projects)| |[About me](#about_me)| |[Contact](#contact)|
 
 ---
 
@@ -32,6 +32,8 @@ layout: default
 ---
 # <a name="about_me"></a>**About me**
 
+---
+# <a name="contact"></a>**Contact**
 
 
 <!---
