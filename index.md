@@ -38,7 +38,7 @@ E-mail: [simongoatbeard@gmail.com](mailto:simongoatbeard@gmail.com)
 
 ---
 
-
+permalink: readme.md
 
 <!---
 Text can be **bold**, _italic_, or ~~strikethrough~~.
