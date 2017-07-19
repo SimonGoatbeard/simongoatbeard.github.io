@@ -2,10 +2,12 @@
 layout: default
 ---
 ---
-|[My projects](#my_projects)| |[About me](#about_me)| |[Contact](#contact)|
+|[About me](#about_me)| |[My projects](#my_projects)| |[Contact](#contact)|
 
 ---
+# <a name="about_me"></a>**About me**
 
+---
 # <a name="my_projects"></a>**My projects:**
 ## >> Unity 3D Game Engine
 
@@ -28,9 +30,6 @@ layout: default
 
 ## >> WebSites
 *   Curiculum Vitae - **W.I.P.**
-
----
-# <a name="about_me"></a>**About me**
 
 ---
 # <a name="contact"></a>**Contact**
