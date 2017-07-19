@@ -6,7 +6,7 @@ layout: default
 
 ---
 # <a name="about_me"></a>**About me**
-Łukasz Szymkowski " _Simon Goatbeard_ "
+Łukasz Szymkowski "_Simon Goatbeard_ "
 
 ---
 # <a name="my_projects"></a>**My projects:**
