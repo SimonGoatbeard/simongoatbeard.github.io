@@ -38,7 +38,7 @@ E-mail: [simongoatbeard@gmail.com](mailto:simongoatbeard@gmail.com)
 
 ---
 
-{% include_relative https://github.com/SimonGoatbeard/unity-intro/blob/master/LICENSE.md %}
+{% include_relative README.md %}
 
 
 <!---
