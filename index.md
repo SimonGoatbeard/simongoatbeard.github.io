@@ -38,7 +38,7 @@ E-mail: [simongoatbeard@gmail.com](mailto:simongoatbeard@gmail.com)
 
 ---
 
-{% include_relative README.md %}
+<!--- {% include_relative README.md %} -->
 
 
 <!---
