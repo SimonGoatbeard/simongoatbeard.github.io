@@ -38,6 +38,9 @@ E-mail: [simongoatbeard@gmail.com](mailto:simongoatbeard@gmail.com)
 
 ---
 
+{% include README.md %}
+
+
 <!---
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
