@@ -23,7 +23,7 @@ layout: default
 
 ## >> Java
 ###   Java Swing
-*   [Cataloguing program](https://github.com/SimonGoatbeard/CataloguingProgram)- **Cataloguing Program made for Medical Facility**.
+*   [Cataloguing program](https://github.com/SimonGoatbeard/CataloguingProgram) - **Cataloguing Program made for Medical Facility**.
 
 ## >> WebSites
 *   [Curiculum Vitae](https://github.com/SimonGoatbeard/CuriculumVitae) - **CV made in XHTML, CSS 2 and JS**.
