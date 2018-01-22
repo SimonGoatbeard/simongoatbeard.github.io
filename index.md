@@ -16,7 +16,7 @@ layout: default
 *   [SteamBall](unity-steamball) - **One-day project**. Simple Pong type game that is targeted towards mobile devices.
 *   [Goatbeard's Endless Runner](unity-goatbeardsendlessrunner) - **One-day project**. This is an endless runner game targeted towards mobile devices where You must avoid obstacles by jumping over them.
 *   [TicTacToe](unity-tictactoe) - **One-day project**. Simple game, that utilises the multi-platform controller queries.
-*   [Space Shooter](unity-spaceshooter) - **Game, that we made on IT Science Club session**. I was the teacher for those classes.
+*   [Space Shooter](https://github.com/SimonGoatbeard/unity-SpaceShooter) - **Game, that we made on IT Science Club session**. I was the teacher for those classes.
 
 ## >> C \#
 *   Text Coder/Decoder - **W.I.P.**
