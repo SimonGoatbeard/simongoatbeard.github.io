@@ -16,17 +16,17 @@ layout: default
 *   [SteamBall](https://github.com/SimonGoatbeard/unity-SteamBall) - **One-day project**. Simple Pong type game that is targeted towards mobile devices.
 *   [Goatbeard's Endless Runner](https://github.com/SimonGoatbeard/unity-GoatbeardsEndlessRunner) - **One-day project**. This is an endless runner game targeted towards mobile devices where You must avoid obstacles by jumping over them.
 *   [TicTacToe](https://github.com/SimonGoatbeard/unity-TicTacToe) - **One-day project**. Simple game, that utilises the multi-platform controller queries.
-*   [Space Shooter](https://github.com/SimonGoatbeard/unity-SpaceShooter) - **Game, that we made on IT Science Club session**. I was the teacher for those classes.
+*   [Space Shooter](https://github.com/SimonGoatbeard/unity-SpaceShooter) - **Game, that we made during IT Science Club session**. I was the teacher for those classes.
 
 ## >> C \#
 *   Text Coder/Decoder - **W.I.P.**
 
 ## >> Java
-###   JavaFX
-*   [Cataloguing program](https://github.com/SimonGoatbeard/unity-SpaceShooter)
+###   Java Swing
+*   [Cataloguing program](https://github.com/SimonGoatbeard/CataloguingProgram)- **Cataloguing Program made for Medical Facility**.
 
 ## >> WebSites
-*   Curiculum Vitae - **W.I.P.**
+*   [Curiculum Vitae](https://github.com/SimonGoatbeard/CuriculumVitae) - **CV made in XHTML, CSS 2 and JS**.
 
 ---
 # <a name="contact"></a>**Contact**
