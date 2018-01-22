@@ -12,10 +12,10 @@ layout: default
 # <a name="my_projects"></a>**My projects:**
 ## >> Unity 3D Game Engine
 
-*   [Intro animation](unity-intro) - A project that I made for YouTube Unity 3D tutorials containing my first intro animation.
-*   [SteamBall](unity-steamball) - **One-day project**. Simple Pong type game that is targeted towards mobile devices.
-*   [Goatbeard's Endless Runner](unity-goatbeardsendlessrunner) - **One-day project**. This is an endless runner game targeted towards mobile devices where You must avoid obstacles by jumping over them.
-*   [TicTacToe](unity-tictactoe) - **One-day project**. Simple game, that utilises the multi-platform controller queries.
+*   [Intro animation](https://github.com/SimonGoatbeard/unity-intro) - A project that I made for YouTube Unity 3D tutorials containing my first intro animation.
+*   [SteamBall](https://github.com/SimonGoatbeard/unity-SteamBall) - **One-day project**. Simple Pong type game that is targeted towards mobile devices.
+*   [Goatbeard's Endless Runner](https://github.com/SimonGoatbeard/unity-GoatbeardsEndlessRunner) - **One-day project**. This is an endless runner game targeted towards mobile devices where You must avoid obstacles by jumping over them.
+*   [TicTacToe](https://github.com/SimonGoatbeard/unity-TicTacToe) - **One-day project**. Simple game, that utilises the multi-platform controller queries.
 *   [Space Shooter](https://github.com/SimonGoatbeard/unity-SpaceShooter) - **Game, that we made on IT Science Club session**. I was the teacher for those classes.
 
 ## >> C \#
@@ -23,11 +23,7 @@ layout: default
 
 ## >> Java
 ###   JavaFX
-*   InfoBingo - **W.I.P.**
-*   MusicPlayer - **W.I.P.**
-
-###   Java Swing
-*   **W.I.P.**
+*   [Cataloguing program](https://github.com/SimonGoatbeard/unity-SpaceShooter)
 
 ## >> WebSites
 *   Curiculum Vitae - **W.I.P.**
@@ -35,7 +31,9 @@ layout: default
 ---
 # <a name="contact"></a>**Contact**
 E-mail: [simongoatbeard@gmail.com](mailto:simongoatbeard@gmail.com)
+
 OR
+
 E-mail: [lukaszszymkowski@gmail.com](mailto:lukaszszymkowski@gmail.com)
 
 ---
